@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Saran 👋
 
-<!--
-**saran2020/saran2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Software Engineer focused on mobile architecture, framework internals, and performance optimization. Outside of mobile app development, I build privacy-first local web tools and explore audio engineering scripts.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Core Tech Stack
+
+**Mobile Architecture & App Development**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+
+**Scripting, Web & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 What I'm Working On
+
+- 📱 **Android Engineering**: Building scalable Android applications with clean architecture, robust state management, and optimized startup metrics.
+- 🔒 **Local-First Tools**: Designing portable, privacy-focused client-side web utilities using local storage and client-side processing.
+- 🎧 **Audio Utilities**: Writing CLI utilities and scripts for audio tempo adjustments, track processing, and custom audio workflows.
+- 🧩 **Algorithms & Puzzles**: Implementing algorithmic solvers for graph and connection-based grid puzzles.
+
+---
+
+### 📫 Connect With Me
+
+- **LinkedIn**: [https://www.linkedin.com/in/saran2020/](https://www.linkedin.com/in/saran2020/)
+- **Website**: [saran.sankaran.dev](https://saran.sankaran.dev)
+- **Email**: [saran@sankaran.dev](mailto:saran@sankaran.dev)
