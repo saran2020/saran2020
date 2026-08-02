@@ -1,7 +1,9 @@
 # Hi there, I'm Saran 👋
 
-Android Software Engineer focused on mobile architecture, framework internals, and performance optimization. Outside of mobile app development, I build privacy-first local web tools and explore audio engineering scripts.
-
+Android Software Engineer with 8+ years of experience in fast-paced startups, working on cutting-edge technologies as well as building borderless apps.
+- **Focus:** Mobile architecture, framework internals, and performance optimisation.
+- **Beyond Mobile:** I build privacy-first local web tools and explore audio engineering scripts.
+  
 ---
 
 ### 💻 Core Tech Stack
